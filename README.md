@@ -21,7 +21,12 @@ A simple React Native application that mimics a mobile lock screen with a slidin
 
 ## 📦 Installation
 
-1. **Install Expo CLI** (if not already installed):
+1. **Install Expo CLI**:
 
    ```bash
    npm install -g expo-cli
+
+
+Author: Bibhuti Bhusan Sahoo  
+GitHub: https://github.com/Bibhuti5  
+Tools Used: Gen AI, React Native, OpenAI  
